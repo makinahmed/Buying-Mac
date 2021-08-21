@@ -1,0 +1,35 @@
+.monitor-info {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.monitor-img {
+    width: 50%;
+}
+
+
+.about-monitor {
+    width: 50%;
+}
+
+.fullsection {
+    display: flex;
+}
+
+.buttons {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.buttons button {
+    margin-top: 35px;
+}
+
+.memo {
+    width: 30%;
+    margin: 100px auto;
+}
+
